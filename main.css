@@ -7,7 +7,7 @@ a {
   font-size: 20px;
   text-decoration: none;
   color: blue;
+  display: inline-block;
+  margin-bottom: 20px;
 }
-iframe {
-  margin-botton: 5px;
-}
+
